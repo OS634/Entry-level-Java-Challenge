@@ -1,7 +1,7 @@
 /*
  * Implement the Employee interface.
- * Prepare all getters and setters from the Employee.java
- * 
+ * Provides getters and setters for the Employee's fields.
+ * Updates fullname when both firstName and lastName are set.
  */
 
 package com.challenge.api.model;
